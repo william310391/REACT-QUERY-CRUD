@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "description": "Mouse gaming",
+      "price": 10,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Teclado",
+      "description": "Teclado gaming",
+      "price": 15,
+      "inStock": true
+    }
+  ]
+}
